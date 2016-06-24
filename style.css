@@ -29,15 +29,15 @@ nav{
 
 #sectionAside{
 	width: 960px;
+	margin-bottom: 20px;
 }
 
 section{
-	height: 300px;
+	height: 260px;
 	width: 495px;
 	background-color: #ebebeb;
 	float:left;
-	vertical-align: center;
-	margin-bottom: 20px;
+	
 	padding-top: 20px;
 
 }
@@ -48,21 +48,22 @@ article{
 	padding-left: 20px;
 	padding-right: 20px;
 	background-color: #777;
-	vertical-align: middle;
+	
 	padding-top: 15px;
 	margin-top: 20px;
-	padding-bottom: 10px;
+	padding-bottom: 20px;
 
 }
 
 #article{
 	color: white;
-
+	margin-bottom: 20px;
 }
 
 #headers{
 	background-color: #ebebeb;
 	height: 50%;
+	padding-top: 1px;
 	
 
 }
@@ -70,12 +71,14 @@ article{
 #para{
 	background-color: #ebebeb;	
 	height: 50%;
+	padding-top: 1px;
+	margin-top: 10px;
 
 }
 
 
 aside{
-	height: 300px;
+	height: 260px;
 	width: 445px;
 	background-color: #ebebeb;
 	display: inline-block;
